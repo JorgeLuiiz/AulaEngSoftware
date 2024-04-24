@@ -1,7 +1,7 @@
 package DadosCalculadora;
 
 public class Calcula {
-    static int valor1;
+    static int valor;
     static int valor2;
     static int soma;
 
