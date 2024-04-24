@@ -6,5 +6,4 @@ public class nomeManu {
         System.out.println("Mannoella Renata Lima Pereira");
     }
 
-
 }
